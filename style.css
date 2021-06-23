@@ -4,7 +4,7 @@
 body {
     background-color: lightgray;
 }
-}
+
 .name-tag {
 height: 280px;
 width: 400px;
@@ -13,6 +13,7 @@ flex-direction: column;
 justify-content: space-between;
 align-items: center;
 border-radius: var(--main-border-radius);
+background-color: white;
 }
 
 h1,
